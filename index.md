@@ -23,7 +23,7 @@
 ## Programming Languages: Proficient in C/C++, Python, Matlab, Verilog HDL and SQL language. 
 ## Software Tools: Proficient in Tensorflow.
 
-# OTHER
+# OTHERS
 ## Went to The Institute for Electronics and Information Technology in Tianjin, Tsinghua University for an academic survey in 07/2017.
 ## Personal Hobbies: Baseball, Billiards.
 
