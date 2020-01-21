@@ -8,8 +8,8 @@
 ## Tsinghua University, Beijing, China
 ### Department of Electronic Engineering 
 ### Bachelor of Science in Electronic Engineering, 09/2016- 06/2020
-## University of Oregon, 07/2019-09/2019  
-### Visiting Scholar in Prof. Dejing Dou’s group, the Center for Big Learning
+## University of Oregon, Oregon, USA 
+### Visiting Scholar in Prof. Dejing Dou’s group, the Center for Big Learning, 07/2019-09/2019 
 
 # RESEARCH INTERESTS
 ## Natural Language Processing
